@@ -35,4 +35,18 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/My_Portfolio.git
+   https://github.com/Mukesh1709/My_Portfolio.git
+
+
+   My_Portfolio/
+   
+├── assets/               # Contains images, icons, and other media
+│   ├── images/           # Project screenshots and personal photos
+│   └── icons/            # Icons used in the website
+├── css/                  # CSS files for styling
+│   └── styles.css        # Main stylesheet
+├── js/                   # JavaScript files for interactivity
+│   └── main.js           # Main JavaScript file
+├── index.html            # Main HTML file
+├── README.md             # Project documentation
+└── LICENSE               # License file
