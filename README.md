@@ -38,7 +38,7 @@ To run this project locally, follow these steps:
    https://github.com/Mukesh1709/My_Portfolio.git
 
 
-   My_Portfolio/
+# My_Portfolio/
    
 ├── assets/               # Contains images, icons, and other media
 │   ├── images/           # Project screenshots and personal photos
