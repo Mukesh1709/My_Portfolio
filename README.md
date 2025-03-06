@@ -40,8 +40,8 @@ To run this project locally, follow these steps:
 
 # My_Portfolio/
    
-├── assets/               # Contains images, icons, and other media
-│   ├── images/           # Project screenshots and personal photos
+├── assets/               # Contains images, icons, and other media.
+│   ├── images/           # Project screenshots and personal photos.
 │   └── icons/            # Icons used in the website
 ├── css/                  # CSS files for styling
 │   └── styles.css        # Main stylesheet
